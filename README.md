@@ -1,9 +1,9 @@
-# dgdfg
+# Command Line README Generator
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  dfgfdg
+  This is a command-line application that helps you quickly generate and edit a README file. The application is made using node.js, inquirer module.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -14,21 +14,21 @@
   * [Questions](#questions)
 
   ## Installation
-  gfd
+  `npm install`
 
   ## Usage
-  fdsafs
+  `node index.js`
 
   
 ## License
 This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 
   ## Contributing
-  gfdhfgd
+  forking and creating pull requests
 
   ## Tests
-  hdfgh
+  `n/a`
 
   ## Questions
-  If you have any questions about this repo, open an issue or contact me directly at mail@mail.com. You can find more of my work at [pizza](https://github.com/pizza).
+  If you have any questions about this repo, open an issue or contact me directly at steveha999@gmail.com. You can find more of my work at [Pizza199](https://github.com/Pizza199).
 
