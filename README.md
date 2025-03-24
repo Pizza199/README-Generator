@@ -3,7 +3,7 @@
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
-  This is a command-line application that helps you quickly generate and edit a README file. The application is made using node.js, inquirer module.
+  This is a command-line application that helps you quickly generate and edit a README file. The application is made using node.js and inquirer module.
 
   ## Table of Contents
   * [Installation](#installation)
