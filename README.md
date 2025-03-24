@@ -26,8 +26,9 @@ This project is covered under the [MIT](https://opensource.org/licenses/MIT) lic
   ## Contributing
   forking and creating pull requests
 
-  ## Tests
-  `n/a`
+  ## Video of generator in use
+  `https://drive.google.com/file/d/1UxrgTxlA_wqGXns2wvJ4oLcPLyds_9iI/view?usp=drive_link![image](https://github.com/user-attachments/assets/29c7b7a1-dace-43b0-8231-cdeadf21f52d)
+`
 
   ## Questions
   If you have any questions about this repo, open an issue or contact me directly at steveha999@gmail.com. You can find more of my work at [Pizza199](https://github.com/Pizza199).
